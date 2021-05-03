@@ -3,7 +3,7 @@ A fast opinionated front-end build tool that compiles sass/css, vuejs, and js fi
 
 ## How-To
 
-###Commands
+### Commands
 ```bash
 packit init
 packit watch
